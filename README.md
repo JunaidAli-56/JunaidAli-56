@@ -1,6 +1,6 @@
 ### Hello World, I'm Junaid  👋
 
-<img align="right" alt="GIF" src="https://github.com/JunaidAli-56/JunaidAli-56/blob/main/Animation%20-%201699479238727.gif" width="150" height="150" />
+<img align="right" alt="GIF" src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" />
 
 - 🔭 I’m currently working on Car Booking app
 - 🌱 I’m currently learning Node js
