@@ -1,6 +1,6 @@
 ### Hello World, I'm Junaid  👋
 
-- 🔭 I’m currently working on Car Booking app
+- 🔭 I’m currently working on ecommerce project
 - 🌱 I’m currently learning Node js
 - 💬 Ask me about Frontend
 - 📫 How to reach me: junaidhayat33303@gmail.com
