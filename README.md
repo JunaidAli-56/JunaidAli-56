@@ -5,7 +5,7 @@
 - 💬 Ask me about Data Mining 
 - 📫 How to reach me: junaidhayat33303@gmail.com
 
-Portfolio: https://junaid-ali-portfolio-pied.vercel.app/
+Portfolio: https://junaid-portfolio-pied.vercel.app/
 <br />
 ### Languages and Tools:
 
