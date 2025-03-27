@@ -1,11 +1,11 @@
 ### Hello World, I'm Junaid  👋
 
-- 🔭 I’m currently working on ecommerce project
-- 🌱 I’m currently learning Node js
-- 💬 Ask me about Frontend
+- 🔭 I’m currently working on Medical Imaging Analysis project
+- 🌱 I’m currently learning Machine learning models and Hadoop
+- 💬 Ask me about Data Mining 
 - 📫 How to reach me: junaidhayat33303@gmail.com
 
-Portfolio: https://junaid-ali-portfolio.vercel.app/
+Portfolio: https://junaid-ali-portfolio-pied.vercel.app/
 <br />
 ### Languages and Tools:
 
